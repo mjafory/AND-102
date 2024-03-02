@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="enter_your_guess">Enter your guess</string>
+    <string name="textview">TextView</string>
+    <string name="Guess">TextView</string>
+    <string name="nice">NICE!</string>
+    <string name="enteryourguess">Enter your guess</string>
+    <string name="reset">RESET</string>
+    <string name="hide">####</string>
+    <string name="guess">Guess</string>
+    <string name="check_3_guess">Check #3 Guess</string>
+    <string name="check_3">Check #3</string>
+    <string name="check_2_guess">Check #2 Guess</string>
+    <string name="check_2">Check #2</string>
+    <string name="check_1_guess">Check #1 Guess</string>
+    <string name="check_1">Check #1</string>
+</resources>
