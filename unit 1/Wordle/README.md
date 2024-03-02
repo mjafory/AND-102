@@ -4,7 +4,7 @@ Submitted by: Magfur Jafory
 
 Guess the World is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **8** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
