@@ -1,8 +1,9 @@
-# Android App Development Course
+# Android App Development Course | [CodePath](https://www.codepath.org/)
+
 
 ## Overview
 
- I joined to the Android App Development Course at CodePath Feb 2024! This course is designed to provide you with a comprehensive understanding of Android development using Kotlin and Android Studio. Below is an overview of the course structure, unit topics, and individual/group projects.
+I enrolled in the [CodePath](https://www.codepath.org/) Intermediate Android App Development (AND 102) Course in February 2024! This course is designed to provide you with a comprehensive understanding of Android development using Kotlin and Android Studio. Below is an overview of the course structure, unit topics, and individual/group projects.
 
 ## Unit Structure
 
@@ -13,11 +14,23 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 ### Unit 1 - Kotlin and Android Studio | Feb 24 - March 2, 2024
 - [x] **Interactive Lesson:** Introduction to Kotlin and Android Studio
 - [x] **Labs:** Tap Counter Game
+<p align="center">
+  <img src="unit%201/lab/SimpleCounter/demo.png" alt="Demo" width="200" height="200">
+</p>
+
 - [x] **Project:** Wordle Game
+<p align="center">
+  <img src="unit%201/Wordle/demo.gif" alt="Demo" width="200" height="200">
+</p>
+
 
 ### Unit 2 - RecyclerView and Debugging | March 2 - March 9, 2024
 - [x] **Interactive Lesson:** Understanding RecyclerView and Debugging in Android Studio
 - [x] **Labs:** Gmail Clone
+<p align="center">
+<img src="unit 2/lab/demo.gif" alt="Demo" width="200" height="200">
+</p>
+
 - [ ] **Project:** Wishlist App
 
 ### Unit 3 - Using APIs and Image Loading
