@@ -34,7 +34,7 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 - [x] **Project:** Wishlist App
 
 <p align="center">
-<img src="unit%25202/project/Wishlist2/demo.gif" alt="Demo" width="200" height="200">
+<img src="unit 2/project/Wishlist2/demo.gif" alt="Demo" width="200" height="200">
 </p>
 
 
