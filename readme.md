@@ -31,7 +31,12 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 <img src="unit 2/lab/demo.gif" alt="Demo" width="200" height="200">
 </p>
 
-- [ ] **Project:** Wishlist App
+- [x] **Project:** Wishlist App
+
+<p align="center">
+<img src="unit%25202/project/Wishlist2/demo.gif" alt="Demo" width="200" height="200">
+</p>
+
 
 ### Unit 3 - Using APIs and Image Loading
 - [ ] **Interactive Lesson:** Working with APIs
