@@ -1,6 +1,5 @@
 # Android App Development Course | [CodePath](https://www.codepath.org/)
 
-
 ## Overview
 
 I enrolled in the [CodePath](https://www.codepath.org/) Intermediate Android App Development (AND 102) Course in February 2024! This course is designed to provide you with a comprehensive understanding of Android development using Kotlin and Android Studio. Below is an overview of the course structure, unit topics, and individual/group projects.
@@ -13,56 +12,147 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 ### Unit 1 - Kotlin and Android Studio | Feb 24 - March 2, 2024
 - [x] **Interactive Lesson:** Introduction to Kotlin and Android Studio
-- [x] **Labs:** Tap Counter Game
-<p align="center">
-  <img src="unit%201/lab/SimpleCounter/demo.png" alt="Demo" width="200" height="200">
-</p>
 
-- [x] **Project:** Wordle Game
-<p align="center">
-  <img src="unit%201/Wordle/demo.gif" alt="Demo" width="200" height="200">
-</p>
+
+<div style="float: left; width: 50%;color:yellow">
+Labs: Tap Counter Game<br><br>
+  <p align="left">
+    <img src="unit_1/lab/SimpleCounter/demo.png" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+<div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
+Project: Wordle Game
+<br><br>
+  <p align="left">
+    <img src="unit_1/Wordle/demo.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
 
 
 ### Unit 2 - RecyclerView and Debugging | March 2 - March 9, 2024
 - [x] **Interactive Lesson:** Understanding RecyclerView and Debugging in Android Studio
-- [x] **Labs:** Gmail Clone
-<p align="center">
-<img src="unit 2/lab/demo.gif" alt="Demo" width="200" height="200">
-</p>
 
-- [x] **Project:** Wishlist App
 
-<p align="center">
-<img src="unit 2/project/Wishlist2/demo.gif" alt="Demo" width="200" height="200">
-</p>
+<div style="float: left; width: 50%;color:yellow">
+Labs: Gmail Clone<br><br>
+  <p align="left">
+    <img src="unit_2/lab/demo.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+<div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
+Project: Wishlist App
+<br><br>
+  <p align="left">
+    <img src="unit_2/project/Wishlist2/demo.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+
 
 
 ### Unit 3 - Using APIs and Image Loading
 - [ ] **Interactive Lesson:** Working with APIs
-- [ ] **Labs:** NYT Book Search
-- [ ] **Project:** Flixster+ Part 1: Movies
+
+
+<div style="float: left; width: 50%;color:yellow">
+Labs: NYT Book Search<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+<div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
+Project: Flixster+ Part 1: Movies
+<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
 
 ### Unit 4 - Advanced RecyclerView and Paging
 - [ ] **Interactive Lesson:** Advanced RecyclerView Techniques
-- [ ] **Labs:** NYT Article Browser
-- [ ] **Project:** Flixster+ Part 2: Your Design
+
+
+<div style="float: left; width: 50%;color:yellow">
+Labs: NYT Article Browser<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+<div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
+Project: Flixster+ Part 2: Your Design
+<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
 
 ### Unit 5 - Data Persistence
 - [ ] **Interactive Lesson:** Data Persistence with Room and Shared Preferences
-- [ ] **Labs:** Data Persistence (TBA)
-- [ ] **Project:** BitFit Part 1
+
+<div style="float: left; width: 50%;color:yellow">
+Labs: Data Persistence (TBA)<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+<div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
+Project: BitFit Part 1
+<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
 
 ### Unit 6 - Fragments and Navigation
 - [ ] **Interactive Lesson:** Exploring Fragments and Navigation
-- [ ] **Labs:** NYT Combined App
-- [ ] **Project:** BitFit Part 2
+
+<div style="float: left; width: 50%;color:yellow">
+Labs: NYT Combined App<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
+
+<div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
+Project: BitFit Part 2
+<br><br>
+  <p align="left">
+    <img src="200.gif" alt="Demo" width="300" height="400">
+  </p>
+</div>
+
 
 ### Unit 7-10 - Group Project
+
+<div style="float: left; width: 50%;color:yellow">
+
 - [ ] **Sprint 1:** Planning (Product Specs and Wireframing)
+
 - [ ] **Sprint 2:** Development
+
 - [ ] **Sprint 3:** Development and Testing
+
 - [ ] **Sprint 4:** Testing and Demo Day
+
+</div>
+<p align="right">
+<img src="200.gif" alt="Demo" width="200" height="200">
+</p>
 
 ## Individual App Projects
 
