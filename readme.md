@@ -15,7 +15,8 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 
 <div style="float: left; width: 50%;color:yellow">
-Labs: Tap Counter Game<br><br>
+
+- [x] Labs: Tap Counter Game<br><br>
   <p align="left">
     <img src="unit_1/lab/SimpleCounter/demo.png" alt="Demo" width="300" height="400">
   </p>
@@ -23,7 +24,8 @@ Labs: Tap Counter Game<br><br>
 
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
-Project: Wordle Game
+
+- [x] Project: Wordle Game
 <br><br>
   <p align="left">
     <img src="unit_1/Wordle/demo.gif" alt="Demo" width="300" height="400">
@@ -37,7 +39,8 @@ Project: Wordle Game
 
 
 <div style="float: left; width: 50%;color:yellow">
-Labs: Gmail Clone<br><br>
+
+- [x] Labs: Gmail Clone<br><br>
   <p align="left">
     <img src="unit_2/lab/demo.gif" alt="Demo" width="300" height="400">
   </p>
@@ -45,7 +48,8 @@ Labs: Gmail Clone<br><br>
 
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
-Project: Wishlist App
+
+- [x] Project: Wishlist App
 <br><br>
   <p align="left">
     <img src="unit_2/project/Wishlist2/demo.gif" alt="Demo" width="300" height="400">
@@ -61,7 +65,8 @@ Project: Wishlist App
 
 
 <div style="float: left; width: 50%;color:yellow">
-Labs: NYT Book Search<br><br>
+
+- [ ] Labs: NYT Book Search<br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
   </p>
@@ -69,7 +74,8 @@ Labs: NYT Book Search<br><br>
 
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
-Project: Flixster+ Part 1: Movies
+
+- [ ] Project: Flixster+ Part 1: Movies
 <br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
@@ -82,7 +88,8 @@ Project: Flixster+ Part 1: Movies
 
 
 <div style="float: left; width: 50%;color:yellow">
-Labs: NYT Article Browser<br><br>
+
+- [ ] Labs: NYT Article Browser<br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
   </p>
@@ -90,7 +97,8 @@ Labs: NYT Article Browser<br><br>
 
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
-Project: Flixster+ Part 2: Your Design
+
+- [ ] Project: Flixster+ Part 2: Your Design
 <br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
@@ -102,7 +110,8 @@ Project: Flixster+ Part 2: Your Design
 - [ ] **Interactive Lesson:** Data Persistence with Room and Shared Preferences
 
 <div style="float: left; width: 50%;color:yellow">
-Labs: Data Persistence (TBA)<br><br>
+
+- [ ] Labs: Data Persistence (TBA)<br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
   </p>
@@ -110,7 +119,8 @@ Labs: Data Persistence (TBA)<br><br>
 
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
-Project: BitFit Part 1
+
+- [ ] Project: BitFit Part 1
 <br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
@@ -121,7 +131,7 @@ Project: BitFit Part 1
 - [ ] **Interactive Lesson:** Exploring Fragments and Navigation
 
 <div style="float: left; width: 50%;color:yellow">
-Labs: NYT Combined App<br><br>
+- [ ] Labs: NYT Combined App<br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
   </p>
@@ -129,7 +139,8 @@ Labs: NYT Combined App<br><br>
 
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
-Project: BitFit Part 2
+
+- [ ] Project: BitFit Part 2
 <br><br>
   <p align="left">
     <img src="200.gif" alt="Demo" width="300" height="400">
@@ -137,9 +148,10 @@ Project: BitFit Part 2
 </div>
 
 
-### Unit 7-10 - Group Project
 
-<div style="float: left; width: 50%;color:yellow">
+## Final Project
+### Unit 7-10 - Group Project
+<img src="200.gif" alt="Demo" width="300" height="400" >
 
 - [ ] **Sprint 1:** Planning (Product Specs and Wireframing)
 
@@ -149,10 +161,9 @@ Project: BitFit Part 2
 
 - [ ] **Sprint 4:** Testing and Demo Day
 
-</div>
-<p align="right">
-<img src="200.gif" alt="Demo" width="200" height="200">
-</p>
+
+
+
 
 ## Individual App Projects
 
