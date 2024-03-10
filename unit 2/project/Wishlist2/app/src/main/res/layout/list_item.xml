@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/wishName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        style="@style/LargeRedFont"
+        android:layout_marginTop="18dp"
+        android:layout_marginStart="18dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/editIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="🖊️"
+        app:layout_constraintStart_toEndOf="@+id/wishName"
+        app:layout_constraintTop_toTopOf="@+id/wishName" />
+
+
+    <TextView
+        android:id="@+id/wishPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="48dp"
+        android:text="TextView"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/wishUrl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="www.example.com"
+        style="@style/LargeRedFont"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="18dp"
+        android:autoLink="web"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/wishPrice" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="31dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="12dp"
+        android:background="@android:color/transparent"
+        android:onClick="deleteItem"
+        android:padding="0dp"
+        android:text="🗑️"
+        app:layout_constraintBottom_toTopOf="@+id/wishUrl"
+        app:layout_constraintStart_toEndOf="@+id/wishPrice" /> <!-- Set the onClick attribute to the deleteItem method -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
