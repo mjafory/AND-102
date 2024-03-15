@@ -4,7 +4,7 @@ Submitted by: **Magfur Jafory**
 
 **Flixster** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **15** hours spent in total
+Time spent: **18** hours spent in total
 
 ## Required Features
 
