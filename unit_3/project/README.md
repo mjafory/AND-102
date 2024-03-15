@@ -1,8 +1,8 @@
-# Android Project 3 - *Flixster Clone*
+# Android Project 3 - *Flixster*
 
 Submitted by: **Magfur Jafory**
 
-**Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixster** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **15** hours spent in total
 
