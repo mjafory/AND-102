@@ -6,7 +6,7 @@ Submitted by: **Magfur Jafory**
 
 Time spent: **5** hours spent in total
 
-## Required Features
+## Description
 
 Created an Android app to showcase NY Times bestselling books. Utilized AsyncHttpClient for API requests, Gson for JSON parsing, and Glide for image loading. Implemented RecyclerView to display book data with appropriate layout and styling. Enabled "Buy" button functionality to open Amazon listings. Overcame challenges with API key authentication and JSON parsing. Completed required features and implemented stretch goals for improved app appearance and functionality.
 
@@ -29,9 +29,6 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
