@@ -4,7 +4,7 @@ Submitted by: **Magfur Jafory**
 
 **Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **18** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -25,8 +25,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality! 
--- Added log
--- Wishlist Button
+  - Added log
+  - Wishlist Button
 
 ## Video Walkthrough
 
@@ -52,8 +52,7 @@ GIF created with ...
 
 ## Notes
 
-
-Created Android app displaying current movies using The Movie Database API. Implemented network requests, JSON parsing, and Glide for image loading. I overcame challenges with partial image URLs. App enables users to browse and view current movie listings.
+Describe any challenges encountered while building the app.
 
 ## License
 
