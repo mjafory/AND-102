@@ -78,7 +78,7 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 - [ ] Project: Flixster+ Part 1: Movies
 <br><br>
   <p align="left">
-    <img src="200.gif" alt="Demo" width="300" height="400">
+    <img src="unit_3/project/demo1.gif" alt="Demo" width="300" height="400">
   </p>
 </div>
 
