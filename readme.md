@@ -61,12 +61,12 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 
 ### Unit 3 - Using APIs and Image Loading
-- [ ] **Interactive Lesson:** Working with APIs
+- [x] **Interactive Lesson:** Working with APIs
 
 
 <div style="float: left; width: 50%;color:yellow">
 
-- [ ] Labs: NYT Book Search<br><br>
+- [x] Labs: NYT Book Search<br><br>
   <p align="left">
     <img src="unit_3/lab/demo.gif" alt="Demo" width="300" height="400">
   </p>
@@ -75,7 +75,7 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
 
-- [ ] Project: Flixster+ Part 1: Movies
+- [x] Project: Flixster+ Part 1: Movies
 <br><br>
   <p align="left">
     <img src="unit_3/project/demo1.gif" alt="Demo" width="300" height="400">
