@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="0dp"
+                android:background="#531818"
+                android:padding="10px">
+
+                <ImageView
+                    android:id="@+id/movie_image"
+                    android:layout_width="405dp"
+                    android:layout_height="232dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@android:drawable/ic_menu_gallery" />
+
+
+
+
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="0dp"
+                android:background="#0C0808"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/goBack"
+                    android:layout_width="34dp"
+                    android:layout_height="43dp"
+                    android:layout_marginTop="4dp"
+                    android:background="@drawable/goback"
+                    android:padding="10dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/textMovieTitle"
+                    app:layout_constraintEnd_toStartOf="@+id/textMovieTitle"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/textMovieTitle"
+                    app:layout_constraintVertical_bias="1.0" />
+
+                <TextView
+                    android:id="@+id/textMovieTitle"
+                    android:layout_width="326dp"
+                    android:layout_height="42dp"
+                    android:text="Movie Title"
+                    android:textColor="@color/colorlightpink"
+                    android:textSize="30sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/goBack"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:ignore="MissingConstraints" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#0B323E"
+                android:padding="10px">
+
+
+                <TextView
+                    android:id="@+id/textRating"
+                    android:layout_width="182dp"
+                    android:layout_height="39dp"
+                    android:layout_marginTop="8dp"
+                    android:drawableStart="@drawable/starticon"
+                    android:drawablePadding="5dp"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/colorAccent"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.846"
+                    app:layout_constraintStart_toEndOf="@+id/textReleaseDatePlz"
+                    app:layout_constraintTop_toBottomOf="@id/textMovieTitle"
+                    tools:ignore="NotSibling" />
+
+                <TextView
+                    android:id="@+id/textReleaseDatePlz"
+                    android:layout_width="153dp"
+                    android:layout_height="40dp"
+                    android:layout_marginStart="12dp"
+                    android:drawableStart="@drawable/calendar_color_icon"
+                    android:drawablePadding="8dp"
+                    android:padding="10dp"
+                    android:text="Date"
+                    android:textColor="@color/colorlightpink"
+                    android:textSize="15sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:ignore="MissingConstraints"
+                    tools:layout_editor_absoluteY="-2dp" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#181561"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/provider"
+                    android:layout_width="0dp"
+                    android:layout_height="36dp"
+                    android:drawableStart="@drawable/popularity_icon"
+                    android:text="Popularity"
+                    android:drawablePadding="8dp"
+                    android:textColor="@color/colorlightpink"
+                    android:textSize="23sp"
+                    app:layout_constraintEnd_toStartOf="@+id/budget"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/budget"
+                    android:layout_width="0dp"
+                    android:layout_height="37dp"
+                    android:text="Total vote"
+                    android:drawableStart="@drawable/vote_svgrepo_com"
+                    android:drawablePadding="8dp"
+                    android:textColor="@color/colorlightpink"
+                    android:textSize="24sp"
+                    app:layout_constraintStart_toEndOf="@+id/provider"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <TextView
+                android:id="@+id/textOverview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_marginHorizontal="20sp"
+                android:layout_marginVertical="30sp"
+                android:textColor="@color/blue"
+                android:text="lorem itsum" />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:text="Genre"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/textGenre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="15dp"
+                android:text="Comedy"
+                android:textColor="@color/black" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
