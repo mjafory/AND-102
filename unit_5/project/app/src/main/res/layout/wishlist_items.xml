@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/nameItem"
+        android:layout_width="209dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/blue"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Food Name" />
+
+    <TextView
+        android:id="@+id/caloriesItem"
+        android:layout_width="129dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="16dp"
+        android:textAlignment="textEnd"
+        android:textColor="@color/blue_dark"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.719"
+        app:layout_constraintStart_toEndOf="@+id/nameItem"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="100 calories" />
+
+    <TextView
+        android:id="@+id/timeItem"
+        android:layout_width="145dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="8dp"
+        android:textSize="15sp"
+        android:textColor="@color/brown"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.06"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameItem"
+        tools:text="1/1/2024" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
