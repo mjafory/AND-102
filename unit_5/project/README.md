@@ -50,7 +50,7 @@ GIF created with ...
 ## Notes
 
 
-Challenges included handling asynchronous data retrieval and updating UI, designing responsive layouts, managing app navigation, and optimizing resource usage. Overcoming these required technical skills, problem-solving, and attention to detail for a robust app experience.
+Successfully navigating the complexities of asynchronous data retrieval, UI updates, responsive layout design, app navigation, and resource optimization were key challenges. Overcoming these hurdles demanded technical proficiency, adept problem-solving, and meticulous attention to detail to ensure a seamless and efficient app experience.
 
 ## License
 

@@ -120,7 +120,7 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 <div style="float: left; width: 50%;position: relative;top:0px;color:yellow;">
 
-- [ ] Project: BitFit Part 1
+- [x] Project: BitFit Part 1
 <br><br>
   <p align="left">
     <img src="unit_5/project/demo.gif" alt="Demo" width="300" height="400">
