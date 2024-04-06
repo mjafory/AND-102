@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Simple_Wishlist.app.unitTest.iml" />
     </modules>
   </component>
 </project>
