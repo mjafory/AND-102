@@ -159,7 +159,7 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 - [x] **Sprint 3:** Development and Testing
 
-- [x] **Sprint 4:** Testing and Demo Day
+- [x] **Sprint 4:** Testing and [Demo Day](https://github.com/medvision-codepath/Android-Fitness)
 
 
 
