@@ -149,7 +149,7 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 
 
-## [Final Project] https://github.com/medvision-codepath/Android-Fitness 
+## [Final Project](https://github.com/medvision-codepath/Android-Fitness)
 ### Unit 7-10 - Group Project
 <img src="https://github.com/medvision-codepath/Android-Fitness/raw/master/Animation2.gif" alt="Demo" width="300" height="400" >
 
