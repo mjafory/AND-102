@@ -149,17 +149,17 @@ Each unit comprises 2 hours of in-class time, consisting of an interactive lesso
 
 
 
-## Final Project
+## [Final Project] https://github.com/medvision-codepath/Android-Fitness 
 ### Unit 7-10 - Group Project
-<img src="200.gif" alt="Demo" width="300" height="400" >
+<img src="https://github.com/medvision-codepath/Android-Fitness/raw/master/Animation2.gif" alt="Demo" width="300" height="400" >
 
-- [ ] **Sprint 1:** Planning (Product Specs and Wireframing)
+- [x] **Sprint 1:** Planning (Product Specs and Wireframing)
 
-- [ ] **Sprint 2:** Development
+- [x] **Sprint 2:** Development
 
-- [ ] **Sprint 3:** Development and Testing
+- [x] **Sprint 3:** Development and Testing
 
-- [ ] **Sprint 4:** Testing and Demo Day
+- [x] **Sprint 4:** Testing and Demo Day
 
 
 
